@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fernando!
 
-🎓 **Student | 17 years old**
+🎓 **Student | 18 years old**
 
 Welcome to my GitHub profile! I'm Fernando, a passionate student and aspiring developer with a love for creating, building, and learning new things. My main focus is game development with Godot, but I also enjoy working with web technologies and databases.
 
